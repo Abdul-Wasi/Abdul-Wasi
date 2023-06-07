@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul-Wasi
-- 👀 I’m interested in JavaScript, Python, Web Development, AI & ML, 3D- Coding Virtual Reality
+- 👀 I’m interested in AI & ML, JavaScript, Python, Web Development, 3D- Coding Virtual Reality
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - bhatabdul75@gmail.com
 
