@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Abdul-Wasi
-- 👀 I’m interested in AI & ML, JavaScript, Python, Web Development, 3D- Coding Virtual Reality
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Abdul Wasi
+
+- 👀 I'm passionate about solving problems using DSA and C++. Always learning and exploring new tech.
+
 - 📫 How to reach me - bhatabdul75@gmail.com
 
 <!---
