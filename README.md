@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **bhatabdul75@gmail.com**
+- 📫 You can reach me at **bhatabdul75@gmail.com**
 
 - ⚡ Fun fact: **I debug code faster than I decide what to eat!😄**
 
