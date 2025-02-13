@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Wasi</h1>
 <h3 align="center">I'm passionate about solving problems using DSA and C++. Always learning and exploring new tech.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React**
 
 - 📫 You can reach me at **bhatabdul75@gmail.com**
 
