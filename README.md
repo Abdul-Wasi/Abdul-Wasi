@@ -41,6 +41,7 @@
 
 <h3 align="left">🔥 Streak Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Wasi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Abdul-Wasi&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
