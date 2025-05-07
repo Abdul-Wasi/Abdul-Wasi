@@ -35,7 +35,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Wasi&show_icons=true&theme=radical" alt="Abdul Wasi's GitHub stats" height="180px"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Wasi&show_icons=true&theme=radical" alt="Abdul Wasi's GitHub stats" height="180px"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wasi&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
