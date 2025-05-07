@@ -30,3 +30,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwasi75&show_icons=true&theme=radical" alt="Abdul Wasi's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwasi75&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
+
+<h3 align="left">🔥 Streak Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasi75&theme=radical" alt="GitHub Streak" />
+</p>
+
