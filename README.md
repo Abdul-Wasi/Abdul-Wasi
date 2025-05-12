@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **React.js**
 
-- 📫 Reach me at: **bhatabdul75@gmail.com**
+- 📫 You can reach me at: **bhatabdul75@gmail.com**
 
 - ⚡ Fun fact: **I debug faster than I choose what to eat! 😄**
 
