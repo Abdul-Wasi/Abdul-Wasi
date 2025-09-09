@@ -7,6 +7,9 @@
   <a href="https://abdulwasi.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-abdulwasi.site-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
+  <a href="https://www.linkedin.com/in/abdulwasibhat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:bhatabdul75@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhatabdul75@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
