@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://abdulwasi.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-abdulwasi.site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Website-abdulwasi.site-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
   <a href="mailto:bhatabdul75@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhatabdul75@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **React.js** to build modern web applications.
 - 💻 My core focus is on **Data Structures & Algorithms** and **C++**.
 - 📫 You can reach me at **bhatabdul75@gmail.com**.
-- 🌐 Check out my portfolio: **[abdulwasi.site](https://abdulwasi.site)**
+- 🌐 Check out my website: **[abdulwasi.site](https://abdulwasi.site)**
 - ⚡ Fun fact: I debug faster than I choose what to eat! 😄
 
 ---
@@ -50,8 +50,7 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My Top Languages:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul-Wasi&show_icons=true&locale=en&theme=radical" alt="abdul-wasi" height="180" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Wasi&layout=compact&locale=en&theme=radical" alt="abdul-wasi" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Wasi&layout=compact&locale=en&theme=radical" alt="abdul-wasi" />
 </p>
