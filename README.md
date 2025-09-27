@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **React.js** to build modern web applications.
+- 🌱 I’m currently learning **React** to build modern web applications.
 - 💻 My core focus is on **Data Structures & Algorithms** and **C++**.
 - 📫 You can reach me: **bhatabdul75@gmail.com**.
 - 🌐 Check out my website **[abdulwasi.site](https://abdulwasi.site)**
