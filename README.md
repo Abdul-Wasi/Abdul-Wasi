@@ -20,8 +20,8 @@
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **React** to build modern web applications.
 - 💻 My core focus is on **Data Structures & Algorithms** and **C++**.
-- 📫 You can reach me at: **bhatabdul75@gmail.com**.
-- 🌐 Check out my website **[abdulwasi.site](https://abdulwasi.site)**
+- 📫 You can reach me: **bhatabdul75@gmail.com**.
+- 🌐 Check out my website**[abdulwasi.site](https://abdulwasi.site)**
 - ⚡ Fun fact: I debug faster than I choose what to eat! 😄
 
 ---
