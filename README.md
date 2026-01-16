@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Abdul Wasi</h1>
+<h1 align="center">Hi 👋, I'm Abdul Wasi</h1>
 <h3 align="center">A passionate problem-solver diving deep into DSA and C++. Always exploring and building with new tech 🚀</h3>
 
 <br>
