@@ -22,7 +22,7 @@
 - 💻 My core focus is on **Data Strtures & Algorithms** and **C++**.
 - 📫 You can reach me: **bhatabdul75@gmail.com**.
 - 🌐 Check out my website**[abdulwasi.site](https://abdulwasi.site)**
-- ⚡ Fun fact: I debug faster than I choose what to eat! 😄
+- ⚡ Fun fact-: I debug faster than I choose what to eat! 😄
 
 ---
 
