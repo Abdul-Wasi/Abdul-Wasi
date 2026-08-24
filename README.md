@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
+  <img alt="Abdul-Wasi's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
 <h1 align="center">Hi 👋,I'm Abdul Wasi</h1>
 <h3 align="center">A passionate problem-solver diving deep into DSA and C++. Always exploring and building with new tech 🚀</h3>
 
